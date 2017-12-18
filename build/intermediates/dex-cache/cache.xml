@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\Crypto\app\build\intermediates\pre-dexed\debug\classes_c13ec15c93cb3f030de05b4c2e0222fa99ac26f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AnkitmB\.android\build-cache\b7c30f670ed9432667aa13f85c467e1a8c1e4df1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\Crypto\app\build\intermediates\pre-dexed\debug\classes_063b6328f81236f2c9034f7d7d7e5e30835883a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AnkitmB\.android\build-cache\a29a6b228b8975e1aa95cc16b942e5c2f55cd378\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\Crypto\app\build\intermediates\pre-dexed\debug\classes_eda46d78e9b342293642b6781998f926976687b0.jar" />
+    </item>
+
+</items>
