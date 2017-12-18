@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AnkitmB\.android\build-cache\6f0b4a6c87420b7ec63afe6dffb29292b3adb9a7\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AnkitmB\.android\build-cache\f8811fd35a9a740db84a1ffc7134969165834be7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AnkitmB\.android\build-cache\16776c0c58f2e13b949e80299ae8726901d94d70\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AnkitmB\.android\build-cache\72c433b2d390ddce01cbca3c061df19e5de2091d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\AnkitmB\.android\build-cache\a29a6b228b8975e1aa95cc16b942e5c2f55cd378\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AnkitmB\.android\build-cache\10cb6d8a89f4b867f9336855beb00aa5389732e3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AnkitmB\.android\build-cache\851c5ae3694717da5d83157873e588c74e641f20\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AnkitmB\.android\build-cache\1ff58ceb44fcc7f70ce72220475eae2c36d9b2b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AnkitmB\.android\build-cache\944908069c29cfceb31f3f51c44c40d9a69b485b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AnkitmB\.android\build-cache\2369614c941ae54c5440ee70bed3460f8915f87a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AnkitmB\.android\build-cache\8942dfd6ce78ce27ddb8c9ac8afa8f79c9bb6a3a\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:9:9-39
+	android:theme
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.ankitmb.crypto.MainActivity
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\AnkitmB\.android\build-cache\6f0b4a6c87420b7ec63afe6dffb29292b3adb9a7\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AnkitmB\.android\build-cache\f8811fd35a9a740db84a1ffc7134969165834be7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AnkitmB\.android\build-cache\16776c0c58f2e13b949e80299ae8726901d94d70\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AnkitmB\.android\build-cache\72c433b2d390ddce01cbca3c061df19e5de2091d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\AnkitmB\.android\build-cache\b7c30f670ed9432667aa13f85c467e1a8c1e4df1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\AnkitmB\.android\build-cache\a29a6b228b8975e1aa95cc16b942e5c2f55cd378\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AnkitmB\.android\build-cache\10cb6d8a89f4b867f9336855beb00aa5389732e3\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AnkitmB\.android\build-cache\851c5ae3694717da5d83157873e588c74e641f20\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AnkitmB\.android\build-cache\1ff58ceb44fcc7f70ce72220475eae2c36d9b2b7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AnkitmB\.android\build-cache\944908069c29cfceb31f3f51c44c40d9a69b485b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AnkitmB\.android\build-cache\2369614c941ae54c5440ee70bed3460f8915f87a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AnkitmB\.android\build-cache\8942dfd6ce78ce27ddb8c9ac8afa8f79c9bb6a3a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\AnkitmB\Desktop\Avishkar 2k17\Droidrush\CryptoBerg\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\AnkitmB\.android\build-cache\f8811fd35a9a740db84a1ffc7134969165834be7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\AnkitmB\.android\build-cache\16776c0c58f2e13b949e80299ae8726901d94d70\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\AnkitmB\.android\build-cache\72c433b2d390ddce01cbca3c061df19e5de2091d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\AnkitmB\.android\build-cache\b7c30f670ed9432667aa13f85c467e1a8c1e4df1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\AnkitmB\.android\build-cache\a29a6b228b8975e1aa95cc16b942e5c2f55cd378\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\AnkitmB\.android\build-cache\10cb6d8a89f4b867f9336855beb00aa5389732e3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\AnkitmB\.android\build-cache\851c5ae3694717da5d83157873e588c74e641f20\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\AnkitmB\.android\build-cache\1ff58ceb44fcc7f70ce72220475eae2c36d9b2b7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\AnkitmB\.android\build-cache\944908069c29cfceb31f3f51c44c40d9a69b485b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\AnkitmB\.android\build-cache\2369614c941ae54c5440ee70bed3460f8915f87a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\AnkitmB\.android\build-cache\8942dfd6ce78ce27ddb8c9ac8afa8f79c9bb6a3a\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\AnkitmB\.android\build-cache\dca5625e15011df6afbbe318a9898892cd54e369\output\AndroidManifest.xml:26:9-47
