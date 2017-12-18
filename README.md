@@ -26,14 +26,11 @@ pressing the refresh button provided.● Gives the detailed information about th
 
 APIs to use:
 ● Bittrex Developer’s API (Public API)
-
 *(Link: https://bittrex.com/home/api )*
 
 ● CoinMarketCap API
-
 *(Link: https://coinmarketcap.com/api/ )*
 
 For news:
 Coindesk API
-
 *(Link: https://www.coindesk.com/api/ )*
